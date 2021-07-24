@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Created with CodeSandbox
+Jogo da velha simples utilizando HTML, CSS E Javascript.
